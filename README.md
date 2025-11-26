@@ -33,6 +33,5 @@ Welcome to my AWS Re/Start portfolio! This repository documents my cloud journey
 ### 🛠 Challenges & Solutions
 Documenting blockers I faced and how I fixed them.
 
-📧 Email:
-💼 LinkedIn:
+📧 Email:sebogwaneleah@gmail.com
 📦 GitHub: You're already here 😊
