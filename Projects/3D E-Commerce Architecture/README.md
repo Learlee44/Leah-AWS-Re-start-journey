@@ -29,6 +29,11 @@ Word Document (Full project explanation)
 README (You’re reading it now!)
 
 
+---
+
+📄 Project Files
+
+👉 Click here to open the PDF
 
 ---
 
