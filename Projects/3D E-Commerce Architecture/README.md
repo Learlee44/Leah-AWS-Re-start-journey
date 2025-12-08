@@ -33,7 +33,18 @@ README (You’re reading it now!)
 
 📄 Project Files
 
+📘 View the PDF (Recommended – Opens directly on GitHub)
+
 👉 Click here to open the PDF
+
+📝 Download the Word Document (Editable version)
+
+👉 Click here to download the Word file
+
+🖼 Architecture Diagrams
+
+Option 4 Architecture Diagram
+
 
 ---
 
