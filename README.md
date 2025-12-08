@@ -7,10 +7,10 @@ Welcome to my AWS Re/Start portfolio! This repository documents my cloud journey
 
 
 ---
-## 🌩️ AWS Re/Start Portfolio Overview
+##  AWS Re/Start Portfolio Overview
 
 
-### 📚 Labs 
+###  Labs 
 - Cloud Foundations
 - Linux Fundamentals
 - Networking
@@ -18,16 +18,18 @@ Welcome to my AWS Re/Start portfolio! This repository documents my cloud journey
 - Python Programming
 
 
-### 💼 Projects
-- AWS hands‑on cloud projects with documentation and screenshots
+###  Projects
+- AWS hands‑on cloud projects with documentation and screenshots 
+
+1. Static Website
+2. 3D Architecture
 
 
 ### 🎓 Certifications
 - AWS certifications & badges
 
 
-### 🧠 Stick Summaries
-- Quick summaries of AWS services
+
 
 
 ### 🛠 Challenges & Solutions
