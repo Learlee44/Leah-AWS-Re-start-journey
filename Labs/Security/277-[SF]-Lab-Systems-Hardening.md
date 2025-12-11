@@ -30,4 +30,4 @@ In this lab:
 
 8. Choose Patch now.
 9. Observe the status of the patching.
-![ALT TEXT](relative/path/to/Screenshot 2025-12-11 151558.png) 
+![alt text](<Screenshot 2025-12-11 151558.png>)
