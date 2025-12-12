@@ -7,6 +7,22 @@ Welcome to my AWS Re/Start portfolio! This repository documents my cloud journey
 
 
 ---
+## AWS restart
+AWS re/Start is a free, cohort-based training program that helps unemployed or underemployed individuals start cloud careers, even without a tech background. It partners with organizations that support underrepresented and vulnerable groups. Through hands-on labs and real-world scenarios, learners gain technical skills for entry- to mid-level cloud roles, along with professional development training such as résumé building and interview preparation.
+---
+
+### Why i joined the program
+
+- The program is offered at no cost to learners. It even covers the cost of the AWS Certified Cloud Practitioner certification exam, which validates foundational cloud knowledge.
+
+- You do not need a background in technology or specific prior qualifications to apply. It is designed to meet learners where they are and build skills from the ground up.
+
+- Over the course of 12 weeks, we gain foundational skills in:
+Cloud Computing: AWS core services, security, and architecture.
+IT Fundamentals: Linux, Python, networking, and relational databases.
+Hands-on Labs: Scenario-based exercises that emulate real-world tech company challenges.
+---
+
 ##  AWS Re/Start Portfolio Overview
 
 
