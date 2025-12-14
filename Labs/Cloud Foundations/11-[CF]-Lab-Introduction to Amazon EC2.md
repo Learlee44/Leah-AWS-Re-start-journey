@@ -28,7 +28,7 @@ By the end of this lab, you will be able to:
   -configure the network settings
   -add storage 
   -Launch an EC2 instance
-  ![alt text](Lab-11-Screenshot(1)-1.png)
-  ![alt text](Screenshot(2)-1.png)
+  (images/Lab-11-Screenshot(1)-1.png)
+  (images/Screenshot(2)-1.png)
 
   
