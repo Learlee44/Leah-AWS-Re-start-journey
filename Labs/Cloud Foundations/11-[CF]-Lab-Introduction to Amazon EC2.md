@@ -28,7 +28,7 @@ By the end of this lab, you will be able to:
   -configure the network settings
   -add storage 
   -Launch an EC2 instance
-
+![image](<Naming EC2 instance.png>)
   
 
   
