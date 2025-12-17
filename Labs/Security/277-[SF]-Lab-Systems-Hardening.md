@@ -30,8 +30,8 @@ In this lab:
 
 8. Choose Patch now.
 9. Observe the status of the patching.
-![alt text](<Screenshot 2025-12-11 151558.png>)
-![alt text](<Screenshot 2025-12-11 145822.png>)
+![image](<Patch group configuration.png>)
+![image](<Association execution summary.png>)
 ---
 
 ## Task 2: Create a custom patch baseline for Windows instances
@@ -48,7 +48,7 @@ In this lab:
 -Leave the check box for Default patch baseline unselected.
 
 5. Add rule and create patch baseline
-![alt text](<Screenshot 2025-12-11 151053.png>)
+![image](<Patch baseline request succeeded.png>)
 ---
 
 ## Task 3: Patching the Windows instances
@@ -61,7 +61,8 @@ In this lab:
 
   -Value: Enter WindowsProd.
 2. Choose save.
-![alt text](<Screenshot 2025-12-11 152233.png>)
+
+![image](<Managed tags.png>)
 
 3. Return to the Systems Manager console. In the search bar at the top, enter Systems Manager and then select it.
 4. Patching the Windows instances:
@@ -89,7 +90,7 @@ In this lab:
 
   A new page displays. When it becomes available, choose the link to the Execution ID.-A page in the State Manager part of Systems Manager opens.-Choose the Output link for one of the managed instances that shows a status of InProgress.-A page in the Run Command part of Systems Manager opens.-Expand the Output panel to observe the details.
 
-  ![alt text](<Screenshot 2025-12-11 150258.png>)
+  ![image](<Scan, Install summary.png>)
   ---
 
 
@@ -100,4 +101,4 @@ In this lab:
 4. Choose the Node ID for one of the Windows nodes.
   -In the Node ID page that opens, choose the Patch tab.
   -Scroll down and observe what patches were applied to this instance, as well as the Installed Time.
-![alt text](<Screenshot 2025-12-11 152127.png>)
+![image](<Lab complete.png>)
