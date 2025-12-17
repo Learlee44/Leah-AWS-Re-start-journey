@@ -1,11 +1,15 @@
 **3D E-Commerce Platform Architecture on AWS: High Availability Design**
 
-![](media/image1.png){width="6.368233814523185in"
-height="7.320160761154856in"}
+![image](<Architecture Diagram.png>)
 
 **AWS Cloud Practitioner Project -- High Availability Design**
 
-**Team Members:** Kwanele, Neo, Madimetja, Leah, Keketso
+**Team Members:**
+Kwanele
+ Neo
+ Madimetja
+ Leah
+ Keketso
 
 ------------------------------------------------------------------------
 
@@ -16,9 +20,7 @@ interact with high-resolution 3D product models. The design strictly
 adheres to the AWS Well-Architected Framework, focusing on the following
 pillars:
 
-  ------------------------------------------------------------------------------------
-  **[Pillar]{.underline}**   **[Focus Area]{.underline}**
-  -------------------------- ---------------------------------------------------------
+  ------------------------------------------------------------------------------------------------------------------
   **High Availability**      No single point of failure (SPOF); multi-AZ deployments.
 
   **Scalability**            Automatic scaling to handle peak global traffic.
@@ -35,8 +37,7 @@ pillars:
 **Key AWS Services Used and Rationale**
 
   ------------------------------------------------------------------------------------------------
-  **[AWS                   **[Function]{.underline}**   **[Rationale]{.underline}**
-  Service]{.underline}**                                
+  ### AWS                               
   ------------------------ ---------------------------- ------------------------------------------
   **Route 53**             DNS & Global Traffic Routing Routes users to the nearest, healthy
                                                         application endpoint using Latency-Based
