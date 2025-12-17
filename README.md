@@ -2,6 +2,9 @@
 # 👋 Hi, I'm Leah
 ### AWS Re/Start | Cloud Practitioner | IT Support | Junior Cloud Engineer
 
+# Hi! I'm **Leah Sebogwane**, a passionate cloud and full-stack developer with hands-on experience in AWS, Python, Linux, Networking, Security, and modern web technologies. I enjoy building scalable, secure, and high-performing applications while continuously learning and applying new cloud solutions.
+ 
+
 
 Welcome to my AWS Re/Start portfolio! This repository documents my cloud journey, hands-on labs, projects, certifications, challenges, and growth.
 
@@ -41,12 +44,18 @@ Hands-on Labs: Scenario-based exercises that emulate real-world tech company cha
 2. 3D Architecture
 
 
-### 🎓 Certifications
+### Certifications
 - AWS certifications & badges
 
+##  Skills
 
+- **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda, CloudFormation)
+- **Programming:** Python, Bash scripting, SQL  
+- **Web Development:** HTML, CSS, JavaScript, React (basic), REST APIs  
+- **Databases:** MySQL, PostgreSQL, DynamoDB, Redshift  
+- **Networking & Security:** Firewalls, VPNs, Security Groups, IAM policies  
 
-
+---
 
 ### 🛠 Challenges & Solutions
 Documenting blockers I faced and how I fixed them.
