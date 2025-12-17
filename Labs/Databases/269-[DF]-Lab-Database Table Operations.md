@@ -10,8 +10,8 @@ This Lab demonstrates how to use some common database and table operations.
 ### Lab Architecture
 
 A database client is installed on an instance.
-![alt text](<Screenshot 2025-12-14 182936.png>)
-![alt text](<Screenshot 2025-12-14 183029.png>)
+![image](Architecture.png)
+![image](Diagram.png)
 A lab user creates a database and tables. Other displayed statements are SHOW, ALTER, and DROP.
 ---
 
@@ -37,10 +37,10 @@ In this task, I connect to an EC2 instance configured with a database client. Th
 7. To connect to the relational database instance, run the following command in the terminal. A password was configured when the database was installed.
  `mysql -u root --password='re:St@rt!9'`
 
-![alt text](<Screenshot 2025-12-14 183554.png>)
-![alt text](<Screenshot 2025-12-14 183649.png>)
-![alt text](<Screenshot 2025-12-14 183737.png>)
-![alt text](<Screenshot 2025-12-14 183901.png>)
+![image](Dashboard.png)
+![image](<EC2 Instances.png>)
+![image](<Connect to Instance.png>)
+![image](<Screenshot 2025-12-14 183901.png>)
 ---
 
 
@@ -58,6 +58,10 @@ In this task,I create a database named world and a table named country.I then al
 
 3. To verify that the world database has been created, run the following query:
 `SHOW DATABASES;`
+
+![image](<Step 1.png>)
+![image](<Step 2 - 3.png>)
+---
 
 4.  To create a table named country, run the following command:
  `CREATE TABLE world.country `(
@@ -92,10 +96,10 @@ In this task,I create a database named world and a table named country.I then al
 8. To verify that the Continent column name in the country table has been corrected, run the following query:
  `SHOW COLUMNS FROM world.country;`
 
- ![alt text](<Screenshot 2025-12-14 184014.png>)
- ![alt text](<Screenshot 2025-12-14 184410.png>)
- ![alt text](<Screenshot 2025-12-14 184452.png>)
- ![alt text](<Screenshot 2025-12-14 184605.png>)
+ ![image](<Screenshot 2025-12-14 184014.png>)
+ ![image](<Step 4.png>)
+ ![image](<Steps 5 - 6.png>)
+ ![image](<Steps 7 - 8.png>)
 ---
 
 ## Challenge 1
@@ -103,7 +107,7 @@ Create a table named city and add two columns named Name and Region. Both column
 ### Code:
 `CREATE TABLE world.city (`Name` CHAR(52), `Region` CHAR(26));`
 
-![alt text](<Screenshot 2025-12-14 184210-1.png>)
+![image](<Challenge 1.png>)
 
 ## Task 3: Delete a database and table 
 In this task,I delete the world database and country table.
@@ -128,6 +132,8 @@ In this task,I delete the world database and country table.
  `SHOW DATABASES;`
 
 
- ![alt text](<Screenshot 2025-12-14 185257.png>)
- ![alt text](<Screenshot 2025-12-14 185220.png>)
+ ![image](<Challenge 2 show database.png>)
+ ![image](<Lab complete.png>)
 ---
+
+# Lab Complete
