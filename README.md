@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Leah
 ### AWS Re/Start | Cloud Practitioner | IT Support | Junior Cloud Engineer
 
-# Hi! I'm **Leah Sebogwane**, a passionate cloud and full-stack developer with hands-on experience in AWS, Python, Linux, Networking, Security, and modern web technologies. I enjoy building scalable, secure, and high-performing applications while continuously learning and applying new cloud solutions.
+# I'm **Leah Sebogwane**, a passionate cloud and full-stack developer with hands-on experience in AWS, Python, Linux, Networking, Security, and modern web technologies. I enjoy building scalable, secure, and high-performing applications while continuously learning and applying new cloud solutions.
  
 
 
